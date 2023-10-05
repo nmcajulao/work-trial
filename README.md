@@ -7,7 +7,8 @@ A Flutter test project.
 1. Clone this repository.
 2. Make sure your Flutter & Dart version is compatible with this repository.
 3. Run command `flutter pub get` to fetch Flutter package dependencies.
-4. To run the app, use the command `flutter run `
+4. Make sure your test device (virtual/physical) is connected and ready for testing.
+5. To run the app, use the command `flutter run`.
 
 ## Architecture
 Clean Architecture
